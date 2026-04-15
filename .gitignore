@@ -1,0 +1,16 @@
+# Python virtual environment files
+Scripts/
+Lib/
+Include/
+pyvenv.cfg
+
+# Build files
+dist/
+build/
+*.spec
+
+# Python cache files
+__pycache__/
+
+# VSCode settings for this project
+.vscode/
